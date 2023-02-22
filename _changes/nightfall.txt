@@ -1,0 +1,8 @@
+mods/data/nightfall/events.json
+mods/data/nightfall/nightfall-easy.json
+mods/data/nightfall/nightfall-hard.json
+mods/data/nightfall/nightfall.json
+mods/songs/nightfall/Voices.ogg
+mods/songs/nightfall/Inst.ogg
+mods/songs/nightfall/voices.ogg
+mods/songs/nightfall/inst.ogg

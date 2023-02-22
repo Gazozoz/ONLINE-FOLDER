@@ -1,0 +1,6 @@
+mods/data/interrogation/interrogation-hard.json
+mods/data/interrogation/interrogation.json
+mods/songs/interrogation/Voices.ogg
+mods/songs/interrogation/Inst.ogg
+mods/songs/interrogation/voices.ogg
+mods/songs/interrogation/inst.ogg

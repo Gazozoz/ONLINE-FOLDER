@@ -1,0 +1,9 @@
+mods/data/blam/blam(easy).json
+mods/data/blam/blam-easy.json
+mods/data/blam/blam-hard.json
+mods/data/blam/blam.json
+mods/data/blam/events.json
+mods/songs/blam/Voices.ogg
+mods/songs/blam/Inst.ogg
+mods/songs/blam/voices.ogg
+mods/songs/blam/inst.ogg

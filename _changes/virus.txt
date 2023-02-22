@@ -1,0 +1,8 @@
+mods/data/virus/events.json
+mods/data/virus/virus-easy.json
+mods/data/virus/virus-hard.json
+mods/data/virus/virus.json
+mods/songs/virus/Voices.ogg
+mods/songs/virus/Inst.ogg
+mods/songs/virus/voices.ogg
+mods/songs/virus/inst.ogg

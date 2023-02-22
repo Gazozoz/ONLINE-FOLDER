@@ -1,0 +1,8 @@
+mods/data/smoking/events.json
+mods/data/smoking/smoking-easy.json
+mods/data/smoking/smoking-hard.json
+mods/data/smoking/smoking.json
+mods/songs/smoking/Voices.ogg
+mods/songs/smoking/Inst.ogg
+mods/songs/smoking/voices.ogg
+mods/songs/smoking/inst.ogg

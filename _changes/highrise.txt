@@ -1,0 +1,7 @@
+mods/data/highrise/events.json
+mods/data/highrise/highrise-hard.json
+mods/data/highrise/highrise.json
+mods/songs/highrise/Voices.ogg
+mods/songs/highrise/Inst.ogg
+mods/songs/highrise/voices.ogg
+mods/songs/highrise/inst.ogg

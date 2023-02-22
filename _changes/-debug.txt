@@ -1,0 +1,8 @@
+mods/data/-debug/-debug-easy.json
+mods/data/-debug/-debug-hard.json
+mods/data/-debug/-debug.json
+mods/data/-debug/events.json
+mods/songs/-debug/Voices.ogg
+mods/songs/-debug/Inst.ogg
+mods/songs/-debug/voices.ogg
+mods/songs/-debug/inst.ogg

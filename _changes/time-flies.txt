@@ -1,0 +1,6 @@
+mods/data/time-flies/time-flies-hard.json
+mods/data/time-flies/time-flies.json
+mods/songs/time-flies/Voices.ogg
+mods/songs/time-flies/Inst.ogg
+mods/songs/time-flies/voices.ogg
+mods/songs/time-flies/inst.ogg

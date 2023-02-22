@@ -1,0 +1,8 @@
+mods/data/bittersweet/bittersweet-easy.json
+mods/data/bittersweet/bittersweet-hard.json
+mods/data/bittersweet/bittersweet.json
+mods/data/bittersweet/events.json
+mods/songs/bittersweet/Voices.ogg
+mods/songs/bittersweet/Inst.ogg
+mods/songs/bittersweet/voices.ogg
+mods/songs/bittersweet/inst.ogg

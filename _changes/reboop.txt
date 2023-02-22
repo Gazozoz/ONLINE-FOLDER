@@ -1,0 +1,8 @@
+mods/data/reboop/events.json
+mods/data/reboop/reboop-easy.json
+mods/data/reboop/reboop-hard.json
+mods/data/reboop/reboop.json
+mods/songs/reboop/Voices.ogg
+mods/songs/reboop/Inst.ogg
+mods/songs/reboop/voices.ogg
+mods/songs/reboop/inst.ogg

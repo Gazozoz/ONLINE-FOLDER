@@ -1,0 +1,8 @@
+mods/data/earthquake/earthquake-easy.json
+mods/data/earthquake/earthquake-hard.json
+mods/data/earthquake/earthquake.json
+mods/data/earthquake/events.json
+mods/songs/earthquake/Voices.ogg
+mods/songs/earthquake/Inst.ogg
+mods/songs/earthquake/voices.ogg
+mods/songs/earthquake/inst.ogg

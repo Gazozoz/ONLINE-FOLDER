@@ -1,0 +1,8 @@
+mods/data/shacklesz/events.json
+mods/data/shacklesz/shacklesz-easy.json
+mods/data/shacklesz/shacklesz-hard.json
+mods/data/shacklesz/shacklesz.json
+mods/songs/shacklesz/Voices.ogg
+mods/songs/shacklesz/Inst.ogg
+mods/songs/shacklesz/voices.ogg
+mods/songs/shacklesz/inst.ogg

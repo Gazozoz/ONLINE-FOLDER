@@ -1,0 +1,8 @@
+mods/data/rap-king/events.json
+mods/data/rap-king/rap-king-easy.json
+mods/data/rap-king/rap-king-hard.json
+mods/data/rap-king/rap-king.json
+mods/songs/rap-king/Voices.ogg
+mods/songs/rap-king/Inst.ogg
+mods/songs/rap-king/voices.ogg
+mods/songs/rap-king/inst.ogg

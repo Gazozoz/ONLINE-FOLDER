@@ -1,0 +1,7 @@
+mods/data/machina/machina-easy.json
+mods/data/machina/machina-hard.json
+mods/data/machina/machina.json
+mods/songs/machina/Voices.ogg
+mods/songs/machina/Inst.ogg
+mods/songs/machina/voices.ogg
+mods/songs/machina/inst.ogg

@@ -1,0 +1,8 @@
+mods/data/tommyinnit.exe/tommyinnit.exe-baby.json
+mods/data/tommyinnit.exe/tommyinnit.exe-easy.json
+mods/data/tommyinnit.exe/tommyinnit.exe-hard.json
+mods/data/tommyinnit.exe/tommyinnit.exe.json
+mods/songs/tommyinnit.exe/Voices.ogg
+mods/songs/tommyinnit.exe/Inst.ogg
+mods/songs/tommyinnit.exe/voices.ogg
+mods/songs/tommyinnit.exe/inst.ogg

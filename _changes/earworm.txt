@@ -1,0 +1,7 @@
+mods/data/earworm/earworm-easy.json
+mods/data/earworm/earworm-hard.json
+mods/data/earworm/earworm.json
+mods/songs/earworm/Voices.ogg
+mods/songs/earworm/Inst.ogg
+mods/songs/earworm/voices.ogg
+mods/songs/earworm/inst.ogg

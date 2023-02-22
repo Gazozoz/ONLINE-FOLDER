@@ -1,0 +1,6 @@
+mods/data/human/human-hard.json
+mods/data/human/human.json
+mods/songs/human/Voices.ogg
+mods/songs/human/Inst.ogg
+mods/songs/human/voices.ogg
+mods/songs/human/inst.ogg

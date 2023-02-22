@@ -1,0 +1,7 @@
+mods/data/city-funk/city-funk-easy.json
+mods/data/city-funk/city-funk-hard.json
+mods/data/city-funk/city-funk.json
+mods/songs/city-funk/Voices.ogg
+mods/songs/city-funk/Inst.ogg
+mods/songs/city-funk/voices.ogg
+mods/songs/city-funk/inst.ogg

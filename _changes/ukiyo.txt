@@ -1,0 +1,7 @@
+mods/data/ukiyo/ukiyo-easy.json
+mods/data/ukiyo/ukiyo-hard.json
+mods/data/ukiyo/ukiyo.json
+mods/songs/ukiyo/Voices.ogg
+mods/songs/ukiyo/Inst.ogg
+mods/songs/ukiyo/voices.ogg
+mods/songs/ukiyo/inst.ogg
