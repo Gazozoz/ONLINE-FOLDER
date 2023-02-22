@@ -1,0 +1,28 @@
+{
+    "difficulties":"",
+    "category":"Funny Mods",
+    "hideFreeplay":false,
+    "startUnlocked":true,
+    "songs": [
+        ["2hot","hard"],
+        ["cold-flow","normal"],
+        ["dark-duel","normal"],
+        ["darkselfworth","normal"],
+        ["darnell","hard"],
+        ["departure","hard,chaos"],
+        ["dying-lights","normal"],
+        ["edgelord","hard"],
+        ["flamed","hard"],
+        ["ghost","normal"],
+        ["ground-zero","normal"],
+        ["lit-up","hard"],
+        ["night2lights","normal"],
+        ["radiation","standard"],
+        ["redemption","hard"],
+        ["retribution","hard"],
+        ["revenge","hard"],
+        ["skooled","hard"],
+        ["streets","normal"],
+        ["thoughts","normal"]
+    ]
+}
