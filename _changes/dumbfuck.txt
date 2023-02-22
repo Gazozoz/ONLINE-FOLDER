@@ -1,0 +1,6 @@
+mods/data/dumbfuck/dumbfuck-hard.json
+mods/data/dumbfuck/dumbfuck.json
+mods/songs/dumbfuck/Voices.ogg
+mods/songs/dumbfuck/Inst.ogg
+mods/songs/dumbfuck/voices.ogg
+mods/songs/dumbfuck/inst.ogg
