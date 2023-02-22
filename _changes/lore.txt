@@ -1,4 +1,6 @@
+mods/data/lore/events.json
 mods/data/lore/lore-hard.json
+mods/data/lore/lore.json
 mods/songs/lore/Voices.ogg
 mods/songs/lore/Inst.ogg
 mods/songs/lore/voices.ogg

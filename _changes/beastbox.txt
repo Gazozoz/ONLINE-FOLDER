@@ -1,0 +1,6 @@
+mods/data/beastbox/beastbox-hard.json
+mods/data/beastbox/beastbox.json
+mods/songs/beastbox/Voices.ogg
+mods/songs/beastbox/Inst.ogg
+mods/songs/beastbox/voices.ogg
+mods/songs/beastbox/inst.ogg

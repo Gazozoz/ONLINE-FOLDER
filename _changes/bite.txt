@@ -1,4 +1,7 @@
 mods/data/bite/bite-hard.json
+mods/data/bite/bite.json
+mods/data/bite/events.json
+mods/data/bite/events1.json
 mods/songs/bite/Voices.ogg
 mods/songs/bite/Inst.ogg
 mods/songs/bite/voices.ogg
