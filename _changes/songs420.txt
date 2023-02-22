@@ -5,5 +5,6 @@ mods/weeks/f.json
 mods/weeks/g.json
 mods/weeks/l.json
 mods/weeks/n.json
+mods/weeks/p.json
 mods/weeks/r.json
 mods/weeks/s.json
