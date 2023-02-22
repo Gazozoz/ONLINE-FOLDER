@@ -1,0 +1,6 @@
+mods/data/glad/glad-hard.json
+mods/data/glad/glad-troll.json
+mods/songs/glad/Voices.ogg
+mods/songs/glad/Inst.ogg
+mods/songs/glad/voices.ogg
+mods/songs/glad/inst.ogg

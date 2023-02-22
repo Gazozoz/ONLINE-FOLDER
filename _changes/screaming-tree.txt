@@ -1,0 +1,5 @@
+mods/data/screaming-tree/screaming-tree-hard.json
+mods/songs/screaming-tree/Voices.ogg
+mods/songs/screaming-tree/Inst.ogg
+mods/songs/screaming-tree/voices.ogg
+mods/songs/screaming-tree/inst.ogg

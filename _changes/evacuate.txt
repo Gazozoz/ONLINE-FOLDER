@@ -1,0 +1,7 @@
+mods/data/evacuate/evacuate-extratroll.json
+mods/data/evacuate/evacuate-hard.json
+mods/data/evacuate/evacuate-troll.json
+mods/songs/evacuate/Voices.ogg
+mods/songs/evacuate/Inst.ogg
+mods/songs/evacuate/voices.ogg
+mods/songs/evacuate/inst.ogg

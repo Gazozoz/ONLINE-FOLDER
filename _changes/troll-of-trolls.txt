@@ -1,0 +1,6 @@
+mods/data/troll-of-trolls/troll-of-trolls-hard.json
+mods/data/troll-of-trolls/troll-of-trolls-troll.json
+mods/songs/troll-of-trolls/Voices.ogg
+mods/songs/troll-of-trolls/Inst.ogg
+mods/songs/troll-of-trolls/voices.ogg
+mods/songs/troll-of-trolls/inst.ogg

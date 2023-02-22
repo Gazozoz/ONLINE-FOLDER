@@ -1,0 +1,7 @@
+mods/data/prepare/events.json
+mods/data/prepare/prepare-hard.json
+mods/data/prepare/prepare-troll.json
+mods/songs/prepare/Voices.ogg
+mods/songs/prepare/Inst.ogg
+mods/songs/prepare/voices.ogg
+mods/songs/prepare/inst.ogg

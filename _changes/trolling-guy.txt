@@ -1,0 +1,7 @@
+mods/data/trolling-guy/events.json
+mods/data/trolling-guy/trolling-guy-hard.json
+mods/data/trolling-guy/trolling-guy-troll.json
+mods/songs/trolling-guy/Voices.ogg
+mods/songs/trolling-guy/Inst.ogg
+mods/songs/trolling-guy/voices.ogg
+mods/songs/trolling-guy/inst.ogg

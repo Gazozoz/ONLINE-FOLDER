@@ -1,0 +1,9 @@
+mods/data/reminisce/events.json
+mods/data/reminisce/reminisce-easy.json
+mods/data/reminisce/reminisce-hard.json
+mods/data/reminisce/reminisce-troll.json
+mods/data/reminisce/reminisce.json
+mods/songs/reminisce/Voices.ogg
+mods/songs/reminisce/Inst.ogg
+mods/songs/reminisce/voices.ogg
+mods/songs/reminisce/inst.ogg

@@ -1,0 +1,71 @@
+{
+	"song": {
+		"events": [
+			[
+				87230.7692307692,
+				[
+					[
+						"TG Dialogue",
+						"1",
+						""
+					],
+					[
+						"Set Property",
+						"dad3.alpha",
+						"0"
+					],
+					[
+						"Set Property",
+						"joeSpeaks.alpha",
+						"1"
+					]
+				]
+			],
+			[
+				89192.3076923076,
+				[
+					[
+						"Set Property",
+						"joeSpeaks.alpha",
+						"0"
+					],
+					[
+						"Set Property",
+						"dad3.alpha",
+						"1"
+					],
+					[
+						"TG Dialogue",
+						"0",
+						""
+					],
+					[
+						"Set Property",
+						"dad2.alpha",
+						"0"
+					],
+					[
+						"Set Property",
+						"peterSpeaks.alpha",
+						"1"
+					]
+				]
+			],
+			[
+				90461.5384615384,
+				[
+					[
+						"Set Property",
+						"peterSpeaks.alpha",
+						"0"
+					],
+					[
+						"Set Property",
+						"dad2.alpha",
+						"1"
+					]
+				]
+			]
+		]
+	}
+}

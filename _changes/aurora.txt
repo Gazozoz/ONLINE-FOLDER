@@ -1,0 +1,9 @@
+mods/data/aurora/aurora-easy.json
+mods/data/aurora/aurora-hard.json
+mods/data/aurora/aurora-troll.json
+mods/data/aurora/aurora.json
+mods/data/aurora/events.json
+mods/songs/aurora/Voices.ogg
+mods/songs/aurora/Inst.ogg
+mods/songs/aurora/voices.ogg
+mods/songs/aurora/inst.ogg

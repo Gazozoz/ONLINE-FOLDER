@@ -1,0 +1,8 @@
+mods/data/rainbow-trololo/rainbow-trololo-easy.json
+mods/data/rainbow-trololo/rainbow-trololo-hard.json
+mods/data/rainbow-trololo/rainbow-trololo-troll.json
+mods/data/rainbow-trololo/rainbow-trololo.json
+mods/songs/rainbow-trololo/Voices.ogg
+mods/songs/rainbow-trololo/Inst.ogg
+mods/songs/rainbow-trololo/voices.ogg
+mods/songs/rainbow-trololo/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/resurrection/resurrection-hard.json
+mods/data/resurrection/resurrection-troll.json
+mods/songs/resurrection/Voices.ogg
+mods/songs/resurrection/Inst.ogg
+mods/songs/resurrection/voices.ogg
+mods/songs/resurrection/inst.ogg

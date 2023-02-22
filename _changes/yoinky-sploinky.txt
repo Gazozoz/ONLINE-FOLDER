@@ -1,0 +1,6 @@
+mods/data/yoinky-sploinky/yoinky-sploinky-hard.json
+mods/data/yoinky-sploinky/yoinky-sploinky-troll.json
+mods/songs/yoinky-sploinky/Voices.ogg
+mods/songs/yoinky-sploinky/Inst.ogg
+mods/songs/yoinky-sploinky/voices.ogg
+mods/songs/yoinky-sploinky/inst.ogg

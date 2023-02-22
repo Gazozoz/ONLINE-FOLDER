@@ -1,0 +1,6 @@
+mods/data/corporate/corporate-hard.json
+mods/data/corporate/corporate-troll.json
+mods/songs/corporate/Voices.ogg
+mods/songs/corporate/Inst.ogg
+mods/songs/corporate/voices.ogg
+mods/songs/corporate/inst.ogg
