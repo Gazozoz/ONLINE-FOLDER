@@ -1,0 +1,7 @@
+mods/data/soda-groove/soda-groove-easy.json
+mods/data/soda-groove/soda-groove-hard.json
+mods/data/soda-groove/soda-groove.json
+mods/songs/soda-groove/Voices.ogg
+mods/songs/soda-groove/Inst.ogg
+mods/songs/soda-groove/voices.ogg
+mods/songs/soda-groove/inst.ogg
