@@ -1,0 +1,5 @@
+mods/data/wexecuted/wexecuted-hard.json
+mods/songs/wexecuted/Voices.ogg
+mods/songs/wexecuted/Inst.ogg
+mods/songs/wexecuted/voices.ogg
+mods/songs/wexecuted/inst.ogg

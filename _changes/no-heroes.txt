@@ -1,0 +1,5 @@
+mods/data/no-heroes/no-heroes.json
+mods/songs/no-heroes/Voices.ogg
+mods/songs/no-heroes/Inst.ogg
+mods/songs/no-heroes/voices.ogg
+mods/songs/no-heroes/inst.ogg
