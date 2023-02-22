@@ -1,0 +1,5 @@
+mods/data/retry/retry.json
+mods/songs/retry/Voices.ogg
+mods/songs/retry/Inst.ogg
+mods/songs/retry/voices.ogg
+mods/songs/retry/inst.ogg
