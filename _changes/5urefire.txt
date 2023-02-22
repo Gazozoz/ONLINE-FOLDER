@@ -1,0 +1,5 @@
+mods/data/5urefire/5urefire-hard.json
+mods/songs/5urefire/Voices.ogg
+mods/songs/5urefire/Inst.ogg
+mods/songs/5urefire/voices.ogg
+mods/songs/5urefire/inst.ogg
