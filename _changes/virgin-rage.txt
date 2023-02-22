@@ -1,0 +1,7 @@
+mods/data/virgin-rage/virgin-rage-hard.json
+mods/data/virgin-rage/virgin-rage-null.json
+mods/data/virgin-rage/virgin-rage.json
+mods/songs/virgin-rage/Voices.ogg
+mods/songs/virgin-rage/Inst.ogg
+mods/songs/virgin-rage/voices.ogg
+mods/songs/virgin-rage/inst.ogg
