@@ -1,0 +1,7 @@
+mods/data/mouthman/events.json
+mods/data/mouthman/mouthman-hard.json
+mods/data/mouthman/mouthman.json
+mods/songs/mouthman/Voices.ogg
+mods/songs/mouthman/Inst.ogg
+mods/songs/mouthman/voices.ogg
+mods/songs/mouthman/inst.ogg

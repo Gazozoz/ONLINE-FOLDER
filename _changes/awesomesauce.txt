@@ -1,0 +1,7 @@
+mods/data/awesomesauce/awesomesauce-hard.json
+mods/data/awesomesauce/awesomesauce.json
+mods/data/awesomesauce/events.json
+mods/songs/awesomesauce/Voices.ogg
+mods/songs/awesomesauce/Inst.ogg
+mods/songs/awesomesauce/voices.ogg
+mods/songs/awesomesauce/inst.ogg

@@ -1,0 +1,7 @@
+mods/data/kuntz/events.json
+mods/data/kuntz/kuntz-hard.json
+mods/data/kuntz/kuntz.json
+mods/songs/kuntz/Voices.ogg
+mods/songs/kuntz/Inst.ogg
+mods/songs/kuntz/voices.ogg
+mods/songs/kuntz/inst.ogg

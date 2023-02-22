@@ -1,0 +1,6 @@
+mods/data/sperm/sperm-hard.json
+mods/data/sperm/sperm.json
+mods/songs/sperm/Voices.ogg
+mods/songs/sperm/Inst.ogg
+mods/songs/sperm/voices.ogg
+mods/songs/sperm/inst.ogg

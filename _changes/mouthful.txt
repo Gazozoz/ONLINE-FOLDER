@@ -1,0 +1,6 @@
+mods/data/mouthful/mouthful-hard.json
+mods/data/mouthful/mouthful.json
+mods/songs/mouthful/Voices.ogg
+mods/songs/mouthful/Inst.ogg
+mods/songs/mouthful/voices.ogg
+mods/songs/mouthful/inst.ogg
