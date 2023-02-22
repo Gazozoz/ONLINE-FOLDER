@@ -1,0 +1,5 @@
+mods/data/cycles-dsides/cycles-dsides-hard.json
+mods/songs/cycles-dsides/Voices.ogg
+mods/songs/cycles-dsides/Inst.ogg
+mods/songs/cycles-dsides/voices.ogg
+mods/songs/cycles-dsides/inst.ogg
