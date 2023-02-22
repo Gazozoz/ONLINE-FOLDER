@@ -1,0 +1,5 @@
+mods/data/stand-up/stand-up.json
+mods/songs/stand-up/Voices.ogg
+mods/songs/stand-up/Inst.ogg
+mods/songs/stand-up/voices.ogg
+mods/songs/stand-up/inst.ogg
