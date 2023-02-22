@@ -9,3 +9,4 @@ mods/weeks/n.json
 mods/weeks/p.json
 mods/weeks/r.json
 mods/weeks/s.json
+mods/weeks/t.json

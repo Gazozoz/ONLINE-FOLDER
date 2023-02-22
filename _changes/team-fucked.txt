@@ -1,0 +1,5 @@
+mods/data/team-fucked/team-fucked-hard.json
+mods/songs/team-fucked/Voices.ogg
+mods/songs/team-fucked/Inst.ogg
+mods/songs/team-fucked/voices.ogg
+mods/songs/team-fucked/inst.ogg

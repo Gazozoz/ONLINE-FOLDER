@@ -1,0 +1,5 @@
+mods/data/taste-for-blood/taste-for-blood.json
+mods/songs/taste-for-blood/Voices.ogg
+mods/songs/taste-for-blood/Inst.ogg
+mods/songs/taste-for-blood/voices.ogg
+mods/songs/taste-for-blood/inst.ogg
