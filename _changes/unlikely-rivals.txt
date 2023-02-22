@@ -1,6 +1,0 @@
-mods/data/unlikely-rivals/unlikely-rivals-hard.json
-mods/data/unlikely-rivals/unlikely-rivals.json
-mods/songs/unlikely-rivals/Voices.ogg
-mods/songs/unlikely-rivals/Inst.ogg
-mods/songs/unlikely-rivals/voices.ogg
-mods/songs/unlikely-rivals/inst.ogg
