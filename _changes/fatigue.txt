@@ -1,0 +1,6 @@
+mods/data/fatigue/fatigue-hard.json
+mods/data/fatigue/fatigue.json
+mods/songs/fatigue/Voices.ogg
+mods/songs/fatigue/Inst.ogg
+mods/songs/fatigue/voices.ogg
+mods/songs/fatigue/inst.ogg

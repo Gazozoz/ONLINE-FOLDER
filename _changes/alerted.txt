@@ -1,0 +1,7 @@
+mods/data/alerted/alerted-hard.json
+mods/data/alerted/alerted.json
+mods/data/alerted/events.json
+mods/songs/alerted/Voices.ogg
+mods/songs/alerted/Inst.ogg
+mods/songs/alerted/voices.ogg
+mods/songs/alerted/inst.ogg

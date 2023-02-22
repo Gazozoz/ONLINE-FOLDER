@@ -1,0 +1,7 @@
+mods/data/sighlenced/sighlenced-easy.json
+mods/data/sighlenced/sighlenced-hard.json
+mods/data/sighlenced/sighlenced.json
+mods/songs/sighlenced/Voices.ogg
+mods/songs/sighlenced/Inst.ogg
+mods/songs/sighlenced/voices.ogg
+mods/songs/sighlenced/inst.ogg
