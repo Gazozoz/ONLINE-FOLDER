@@ -1,0 +1,5 @@
+mods/data/meth/meth.json
+mods/songs/meth/Voices.ogg
+mods/songs/meth/Inst.ogg
+mods/songs/meth/voices.ogg
+mods/songs/meth/inst.ogg
