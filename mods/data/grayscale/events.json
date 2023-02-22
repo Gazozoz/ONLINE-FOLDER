@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				64000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"cute-happy"
+					]
+				]
+			],
+			[
+				118666.666666667,
+				[
+					[
+						"Camera Follow Pos",
+						"600",
+						"600"
+					]
+				]
+			],
+			[
+				121333.333333333,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136500,
+				[
+					[
+						"Play Animation",
+						"shit",
+						"gf"
+					]
+				]
+			],
+			[
+				138666.666666667,
+				[
+					[
+						"Change Character",
+						"gf",
+						"cuteless"
+					]
+				]
+			],
+			[
+				139250,
+				[
+					[
+						"Play Animation",
+						"shit",
+						"dad"
+					]
+				]
+			],
+			[
+				140500,
+				[
+					[
+						"Play Animation",
+						"shit",
+						"bf"
+					]
+				]
+			]
+		]
+	}
+}

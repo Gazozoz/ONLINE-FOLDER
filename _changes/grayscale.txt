@@ -1,0 +1,6 @@
+mods/data/grayscale/events.json
+mods/data/grayscale/grayscale.json
+mods/songs/grayscale/Voices.ogg
+mods/songs/grayscale/Inst.ogg
+mods/songs/grayscale/voices.ogg
+mods/songs/grayscale/inst.ogg
