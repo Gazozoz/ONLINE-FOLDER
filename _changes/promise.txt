@@ -1,0 +1,8 @@
+mods/data/promise/events.json
+mods/data/promise/promise-easy.json
+mods/data/promise/promise-hard.json
+mods/data/promise/promise.json
+mods/songs/promise/Voices.ogg
+mods/songs/promise/Inst.ogg
+mods/songs/promise/voices.ogg
+mods/songs/promise/inst.ogg

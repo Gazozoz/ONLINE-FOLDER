@@ -1,0 +1,8 @@
+mods/data/puzzling/events.json
+mods/data/puzzling/puzzling-easy.json
+mods/data/puzzling/puzzling-hard.json
+mods/data/puzzling/puzzling.json
+mods/songs/puzzling/Voices.ogg
+mods/songs/puzzling/Inst.ogg
+mods/songs/puzzling/voices.ogg
+mods/songs/puzzling/inst.ogg

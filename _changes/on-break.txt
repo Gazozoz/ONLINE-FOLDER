@@ -1,0 +1,8 @@
+mods/data/on-break/events.json
+mods/data/on-break/on-break-easy.json
+mods/data/on-break/on-break-hard.json
+mods/data/on-break/on-break.json
+mods/songs/on-break/Voices.ogg
+mods/songs/on-break/Inst.ogg
+mods/songs/on-break/voices.ogg
+mods/songs/on-break/inst.ogg

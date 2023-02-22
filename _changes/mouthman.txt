@@ -1,4 +1,3 @@
-mods/data/mouthman/events.json
 mods/data/mouthman/mouthman-hard.json
 mods/data/mouthman/mouthman.json
 mods/songs/mouthman/Voices.ogg

@@ -1,6 +1,5 @@
 mods/data/driveby/driveby-hard.json
 mods/data/driveby/driveby.json
-mods/data/driveby/events.json
 mods/songs/driveby/Voices.ogg
 mods/songs/driveby/Inst.ogg
 mods/songs/driveby/voices.ogg

@@ -1,0 +1,6 @@
+mods/data/ominous/events.json
+mods/data/ominous/ominous-hard.json
+mods/songs/ominous/Voices.ogg
+mods/songs/ominous/Inst.ogg
+mods/songs/ominous/voices.ogg
+mods/songs/ominous/inst.ogg

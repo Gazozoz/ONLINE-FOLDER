@@ -1,0 +1,8 @@
+mods/data/layback/events.json
+mods/data/layback/layback-easy.json
+mods/data/layback/layback-hard.json
+mods/data/layback/layback.json
+mods/songs/layback/Voices.ogg
+mods/songs/layback/Inst.ogg
+mods/songs/layback/voices.ogg
+mods/songs/layback/inst.ogg

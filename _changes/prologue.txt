@@ -1,0 +1,8 @@
+mods/data/prologue/events.json
+mods/data/prologue/prologue-easy.json
+mods/data/prologue/prologue-hard.json
+mods/data/prologue/prologue.json
+mods/songs/prologue/Voices.ogg
+mods/songs/prologue/Inst.ogg
+mods/songs/prologue/voices.ogg
+mods/songs/prologue/inst.ogg

@@ -1,6 +1,5 @@
 mods/data/cozmik/cozmik-hard.json
 mods/data/cozmik/cozmik.json
-mods/data/cozmik/events.json
 mods/songs/cozmik/Voices.ogg
 mods/songs/cozmik/Inst.ogg
 mods/songs/cozmik/voices.ogg
