@@ -1,0 +1,5 @@
+mods/data/revenge/revenge-hard.json
+mods/songs/revenge/Voices.ogg
+mods/songs/revenge/Inst.ogg
+mods/songs/revenge/voices.ogg
+mods/songs/revenge/inst.ogg

@@ -1,0 +1,6 @@
+mods/data/radiation/events.json
+mods/data/radiation/radiation-standard.json
+mods/songs/radiation/Voices.ogg
+mods/songs/radiation/Inst.ogg
+mods/songs/radiation/voices.ogg
+mods/songs/radiation/inst.ogg

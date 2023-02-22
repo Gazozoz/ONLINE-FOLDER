@@ -1,0 +1,6 @@
+mods/data/flamed/events.json
+mods/data/flamed/flamed-hard.json
+mods/songs/flamed/Voices.ogg
+mods/songs/flamed/Inst.ogg
+mods/songs/flamed/voices.ogg
+mods/songs/flamed/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/redemption/redemption-hard.json
+mods/songs/redemption/Voices.ogg
+mods/songs/redemption/Inst.ogg
+mods/songs/redemption/voices.ogg
+mods/songs/redemption/inst.ogg

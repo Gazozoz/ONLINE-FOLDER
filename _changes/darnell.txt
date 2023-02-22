@@ -1,0 +1,5 @@
+mods/data/darnell/darnell-hard.json
+mods/songs/darnell/Voices.ogg
+mods/songs/darnell/Inst.ogg
+mods/songs/darnell/voices.ogg
+mods/songs/darnell/inst.ogg

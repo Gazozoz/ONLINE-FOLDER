@@ -1,0 +1,5 @@
+mods/data/skooled/skooled-hard.json
+mods/songs/skooled/Voices.ogg
+mods/songs/skooled/Inst.ogg
+mods/songs/skooled/voices.ogg
+mods/songs/skooled/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/dying-lights/dying-lights.json
+mods/songs/dying-lights/Voices.ogg
+mods/songs/dying-lights/Inst.ogg
+mods/songs/dying-lights/voices.ogg
+mods/songs/dying-lights/inst.ogg

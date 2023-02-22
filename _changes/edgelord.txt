@@ -1,0 +1,5 @@
+mods/data/edgelord/edgelord-hard.json
+mods/songs/edgelord/Voices.ogg
+mods/songs/edgelord/Inst.ogg
+mods/songs/edgelord/voices.ogg
+mods/songs/edgelord/inst.ogg

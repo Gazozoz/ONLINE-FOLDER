@@ -1,0 +1,7 @@
+mods/data/departure/departure-chaos.json
+mods/data/departure/departure-hard.json
+mods/data/departure/events.json
+mods/songs/departure/Voices.ogg
+mods/songs/departure/Inst.ogg
+mods/songs/departure/voices.ogg
+mods/songs/departure/inst.ogg

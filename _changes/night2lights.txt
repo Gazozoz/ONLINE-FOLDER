@@ -1,0 +1,5 @@
+mods/data/night2lights/night2lights.json
+mods/songs/night2lights/Voices.ogg
+mods/songs/night2lights/Inst.ogg
+mods/songs/night2lights/voices.ogg
+mods/songs/night2lights/inst.ogg

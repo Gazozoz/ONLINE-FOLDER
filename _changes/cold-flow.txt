@@ -1,0 +1,6 @@
+mods/data/cold-flow/cold-flow.json
+mods/data/cold-flow/events.json
+mods/songs/cold-flow/Voices.ogg
+mods/songs/cold-flow/Inst.ogg
+mods/songs/cold-flow/voices.ogg
+mods/songs/cold-flow/inst.ogg

@@ -1,0 +1,5 @@
+mods/data/darkselfworth/darkselfworth.json
+mods/songs/darkselfworth/Voices.ogg
+mods/songs/darkselfworth/Inst.ogg
+mods/songs/darkselfworth/voices.ogg
+mods/songs/darkselfworth/inst.ogg

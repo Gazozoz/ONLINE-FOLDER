@@ -1,0 +1,5 @@
+mods/data/dark-duel/dark-duel.json
+mods/songs/dark-duel/Voices.ogg
+mods/songs/dark-duel/Inst.ogg
+mods/songs/dark-duel/voices.ogg
+mods/songs/dark-duel/inst.ogg
