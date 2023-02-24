@@ -1,0 +1,7 @@
+mods/data/standing-here/standing-here-fucked.json
+mods/data/standing-here/standing-here-hard.json
+mods/data/standing-here/standing-here.json
+mods/songs/standing-here/Voices.ogg
+mods/songs/standing-here/Inst.ogg
+mods/songs/standing-here/voices.ogg
+mods/songs/standing-here/inst.ogg

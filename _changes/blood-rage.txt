@@ -1,0 +1,8 @@
+mods/data/blood-rage/blood-rage-fucked.json
+mods/data/blood-rage/blood-rage-hard.json
+mods/data/blood-rage/blood-rage.json
+mods/data/blood-rage/events.json
+mods/songs/blood-rage/Voices.ogg
+mods/songs/blood-rage/Inst.ogg
+mods/songs/blood-rage/voices.ogg
+mods/songs/blood-rage/inst.ogg

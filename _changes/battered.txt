@@ -1,0 +1,8 @@
+mods/data/battered/battered-fucked.json
+mods/data/battered/battered-hard.json
+mods/data/battered/battered.json
+mods/data/battered/events.json
+mods/songs/battered/Voices.ogg
+mods/songs/battered/Inst.ogg
+mods/songs/battered/voices.ogg
+mods/songs/battered/inst.ogg
