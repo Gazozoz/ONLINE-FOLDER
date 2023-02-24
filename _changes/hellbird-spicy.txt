@@ -1,0 +1,6 @@
+mods/data/hellbird-spicy/events-spicy.json
+mods/data/hellbird-spicy/hellbird-spicy.json
+mods/songs/hellbird-spicy/Voices.ogg
+mods/songs/hellbird-spicy/Inst.ogg
+mods/songs/hellbird-spicy/voices.ogg
+mods/songs/hellbird-spicy/inst.ogg
